@@ -8,4 +8,8 @@
     <UserSecretsId>e06a0614-fd3c-461c-a2c4-67695fbacadb</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.Profiler.AspNetCore" Version="3.0.1" />
+  </ItemGroup>
+
 </Project>
